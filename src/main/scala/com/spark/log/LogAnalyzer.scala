@@ -1,4 +1,4 @@
-package main.scala.com.spark.core.log
+package main.scala.com.spark.log
 
 
 import main.scala.com.Util.Utils

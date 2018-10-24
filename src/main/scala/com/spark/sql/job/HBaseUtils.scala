@@ -1,5 +1,5 @@
 
-package main.scala.com.spark.core.sql.job
+package main.scala.com.spark.sql.job
 
 /**
   * @author PGOne

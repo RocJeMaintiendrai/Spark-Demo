@@ -1,4 +1,4 @@
-package main.scala.com.spark.core.sql.job
+package main.scala.com.spark.sql.job
 import org.apache.spark.sql.{Row, SaveMode, SparkSession}
 /**
   * @author PGOne

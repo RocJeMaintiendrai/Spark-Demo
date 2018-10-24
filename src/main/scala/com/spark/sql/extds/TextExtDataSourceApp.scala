@@ -1,4 +1,4 @@
-package main.scala.com.spark.core.sql.extds
+package main.scala.com.spark.sql.extds
 
 /**
   * @author PGOne
